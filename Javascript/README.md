@@ -1,1 +1,1 @@
-    This is the repository for Annie's projects.
+    This is the repository for Annie's javascript projects.
