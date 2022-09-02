@@ -1,0 +1,124 @@
+2022.09.01 14:55:39 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\Studies\.metals\lsp.trace.json or C:\Users\Annie Wretblad\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.09.01 14:55:40 INFO  logging to file C:\Projects\Studies\.metals\metals.log
+2022.09.01 14:55:40 INFO  Started: Metals version 0.11.8 in workspace 'C:\Projects\Studies' for client Visual Studio Code 1.70.2.
+2022.09.01 14:55:42 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.09.01 14:55:43 INFO  time: initialize in 2.1s
+2022.09.01 14:55:46 WARN  Build server is not auto-connectable.
+2022.09.01 14:55:46 WARN  no build tool detected in workspace 'C:\Projects\Studies'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.09.01 14:55:46 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 14:55:52 INFO  no build target found for C:\Projects\Studies\Scala\kojolib.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.09.01 14:55:55 INFO  time: code lens generation in 8.12s
+2022.09.01 14:56:07 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 14:56:11 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 14:56:50 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:03:46 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:03:49 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:03:50 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:03:52 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:03:58 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:04:00 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:04:07 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:04:14 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:04:16 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:04:24 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:04:28 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:04:30 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:04:35 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:04:38 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:04:58 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:05:08 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:05:13 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:05:17 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:05:20 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:05:42 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:05:45 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:05:48 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:05:50 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:05:53 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:05:58 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:06:56 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:07:28 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:07:35 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:07:37 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:07:39 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:07:41 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:08:02 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:08:10 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:08:13 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:08:18 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:08:20 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:08:44 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:09:12 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:15:38 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:16:01 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:16:03 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:16:40 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:16:46 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:16:47 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:17:55 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:17:58 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:18:20 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:19:06 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:19:08 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+Sep 01, 2022 3:19:15 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2495)
+	at scala.meta.internal.pc.SignatureHelpProvider$.isValid(SignatureHelpProvider.scala:88)
+	at scala.meta.internal.pc.SignatureHelpProvider$.notCurrentApply(SignatureHelpProvider.scala:101)
+	at scala.meta.internal.pc.SignatureHelpProvider$.$anonfun$1(SignatureHelpProvider.scala:49)
+	at scala.collection.StrictOptimizedLinearSeqOps.loop$3(LinearSeq.scala:266)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile(LinearSeq.scala:268)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile$(LinearSeq.scala:264)
+	at scala.collection.immutable.List.dropWhile(List.scala:79)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:49)
+
+2022.09.01 15:19:17 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:19:24 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:19:25 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:19:37 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:20:19 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:20:21 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:20:29 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:21:07 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:21:09 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:21:11 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:21:14 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:21:25 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:21:26 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:21:56 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:21:59 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:23:10 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:23:23 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+Sep 01, 2022 3:23:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1029
+2022.09.01 15:24:22 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:24:27 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:24:30 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:25:51 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:25:56 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:25:59 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:26:04 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:26:10 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:26:12 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:26:14 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:26:20 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:27:03 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:27:08 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:27:12 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:27:13 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:27:14 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:27:20 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:27:23 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:27:32 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:27:45 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 15:27:47 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+2022.09.01 17:28:07 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+Sep 01, 2022 5:28:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1366
+2022.09.01 17:28:08 WARN  no build target for: C:\Projects\Studies\Scala\kojolib.scala
+Sep 01, 2022 9:36:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.09.01 21:37:27 INFO  shutting down Metals
+2022.09.02 17:04:36 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Projects\Studies\.metals\lsp.trace.json or C:\Users\Annie Wretblad\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.09.02 17:04:38 INFO  logging to file C:\Projects\Studies\.metals\metals.log
