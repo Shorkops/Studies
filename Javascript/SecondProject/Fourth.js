@@ -1,21 +1,28 @@
-var array1 = [true,  true,  true,  false,
-    true,  true,  true,  true ,
-    true,  false, true,  false,
-    true,  false, false, true ,
-    true,  true,  true,  true ,
-    false, false, true,  true ];
-
-function countSheeps(arrayOfSheep) {
-    let counter = 0;
-    for (let i; i < arrayOfSheep[i]; i++){
-      if (arrayofSheep[1] == true) {
-        console.log(i)
-      } else if (false){
-        console.log(false)
-      } else {
-        console.log(error)
-      }
+let str = "aeiou"
+let vowelsCount = 0;
+function getCount(str) {
+    for(let i = 0; i < str.split('').length; i++) {
+        switch(str.split('')[i]){
+            case 'a':
+                vowelsCount++;
+                break;
+            case 'e':
+                vowelsCount++;
+                break;
+            case 'i':
+                vowelsCount++;
+                break;
+            case 'o':
+                vowelsCount++;
+                break;
+            case 'u':
+                vowelsCount++;
+                break;
+            default:
+                break;
+        }
     }
-    }
+    return vowelsCount;
+}
 
-countSheeps(array1);
+console.log(getCount(str));
