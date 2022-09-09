@@ -129,3 +129,4 @@ INFO: Unsupported notification method: $/setTrace
 2022.09.02 17:04:42 WARN  no build tool detected in workspace 'C:\Projects\Studies'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 Sep 02, 2022 5:35:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2022.09.07 18:33:09 INFO  shutting down Metals
